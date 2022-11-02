@@ -1,11 +1,13 @@
 # Appointment Planner 📆
 
+This project is part of Codecademy's Front-End Engineer Path.
+
 ## Description  
-In this project, I used functional React components, working with stateful and stateless functional React components using hooks to create an app that manages contacts and appointments. 
+In this project, I used functional React components, worked with stateful and stateless functional React components using hooks to create an app that manages contacts and appointments. 
 
 The app consists of two pages: one to view and add contacts and one to view and add appointments.
 
-This project is part of Codecademy's Front-End Engineer Path. 
+ 
 
 ## Built With 
 
