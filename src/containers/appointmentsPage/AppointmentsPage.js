@@ -9,12 +9,12 @@ import { TileList } from '../../components/tileList/TileList';
 
 export const AppointmentsPage = ({ 
   appointments, 
-  contacts, 
-  addAppointment }) => {
+  addAppointment, 
+  contacts }) => {
   // State variables holding the form’s appointment data
   const [title, setTitle] = useState('');
   const [contact, setContact] = useState(
-    contacts.length > 0 ? contacts[0].name : ''
+    contacts.length > 0 ? contacts[0].name : ""
   );
   const [date, setDate] = useState('');
   const [time, setTime] = useState('');
