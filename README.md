@@ -15,6 +15,8 @@ The app consists of two pages: one to view and add contacts and one to view and 
 
 ![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
+![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 ## Snapshot
 
 ## Link 
