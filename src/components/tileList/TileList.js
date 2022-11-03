@@ -2,7 +2,7 @@ import React from "react";
 
 import { Tile } from "../tile/Tile";
 
-/* Receive one prop: an array of objects to render as a list */
+// Receive one prop: array of tiles objects to render as a list
 export const TileList = ({ tiles }) => {
   return (
     <div>
